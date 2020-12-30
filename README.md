@@ -24,12 +24,12 @@ Projet de 4A consistant à se logger via page Login et d'accéder à une liste v
 ### Login Page
 
 - Possibilité de se connecter et de créer un compte
-<img src="Screen/LoginPage.png" width="540" height="960" alt="LoginPage.png">
+<img src="https://github.com/Dunniii/AtomusKotlin/blob/master/Screen/LoginPage.PNG" width="540" height="960" alt="LoginPage.png">
 
 ### Second Ecran (recyclerView)
 
 - Affiche la liste des élèments
-<img src="screen/Liste.png" width="540" height="960" alt="Liste.png">
+<img src="https://github.com/Dunniii/AtomusKotlin/blob/master/Screen/Liste.PNG" width="540" height="960" alt="Liste.png">
 
 
 
